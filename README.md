@@ -3,4 +3,6 @@
 This is the pinteresting sample application for
 (*One Month Rails*)(http://JasonCarleton.com)
 
-by (Jason Carleton (http://Jasoncarleton.com)
+I'm testing out uploading to github
+
+by (Jason Carleton)(http://Jasoncarleton.com)
