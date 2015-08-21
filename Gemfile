@@ -11,8 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass' , branch '3'
-
+gem 'bootstrap-sass'
 
 group :development, :test do
 	gem 'sqlite3'
